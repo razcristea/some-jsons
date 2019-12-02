@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "imageUrl":"https://d8ap3a8ix8ao6.cloudfront.net/products/scissors.jpg",
+        "name":"Scissors",
+        "price": 2.99
+    },
+    {
+        "id":2,
+        "imageUrl":"https://d8ap3a8ix8ao6.cloudfront.net/products/body-lotion.jpg",
+        "name":"Body lotion",
+        "price": 1.99
+    },
+    {
+        "id":3,
+        "imageUrl":"https://d8ap3a8ix8ao6.cloudfront.net/products/dispenser.jpg",
+        "name":"Hand sanitizer",
+        "price": 1.79
+    },
+    {
+        "id":4,
+        "imageUrl":"https://d8ap3a8ix8ao6.cloudfront.net/products/shampoo.jpg",
+        "name":"Shampoo",
+        "price": 2.34
+    },
+    {
+        "id":5,
+        "imageUrl":"https://d8ap3a8ix8ao6.cloudfront.net/products/shaving-brush.jpg",
+        "name":"Shaving Brush",
+        "price": 5.34
+    }
+]
